@@ -2,7 +2,7 @@
 
 Code, run logs and per-recording results for the paper
 
-> **Hold-n, LocalAgreement or AlignAtt? A Comparative Study of Whisper Streaming Policies for Indonesian**
+> **Whisper Streaming Policies for Indonesian Live Captioning: A Comparative Study**
 > Nicolas Wijaya and Amalia Zahra, BINUS Graduate Program – Master of Computer Science, Bina Nusantara University.
 > (Manuscript under submission.)
 
